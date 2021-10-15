@@ -1,0 +1,1 @@
+The project will demostrate how to make a website consisting of multiple pages containing different recipes.
